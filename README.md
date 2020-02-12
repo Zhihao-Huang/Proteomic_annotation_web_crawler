@@ -15,4 +15,5 @@ Note:
 4. model: pyExcelerator
 
 Version: Web_Crawler20180316; select GO database.
-author：zhihao.jnu@gmail.com
+
+Author：zhihao.jnu@gmail.com
